@@ -1,3 +1,0 @@
-google-chrome
-iterm2
-muzzle
