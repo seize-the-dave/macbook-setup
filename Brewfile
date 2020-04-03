@@ -24,6 +24,7 @@ cask "muzzle"
 cask "caffeine"
 
 # Development Tools
+brew "bat"
 brew "git"
 brew "bash-completion"
 cask "iterm2"
