@@ -2,6 +2,7 @@ brew "mas"
 
 # Desktop Tools
 cask "google-chrome"
+cask "google-backup-and-sync"
 mas "Magnet", id: 441258766
 
 # Comms
@@ -24,9 +25,13 @@ cask "muzzle"
 cask "caffeine"
 
 # Development Tools
+cask "docker" # Docker for Mac
 brew "bat"
 brew "git"
 brew "bash-completion"
+brew "docker-completion"
+brew "docker-compose-completion"
+brew "docker-machine-completion"
 cask "iterm2"
 brew "awscli"
 cask "visual-studio-code"
